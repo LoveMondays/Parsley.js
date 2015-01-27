@@ -6,6 +6,7 @@
   to error messages. (#805)
 - new event 'form:submit.parsley' fired before a form is submitted.
 - remote cache now cleared after form submission (#813)
+- pattern validator is now anchored, unless it looks like /pattern/flag (#xxx)
 
 ## 2.1.0-rc1
 
